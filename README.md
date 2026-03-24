@@ -17,7 +17,7 @@ Silent Mode: Output only results for easy piping into other tools.
 ```
 
 
-go install github.com/aptspider/SubHunter/v2@v2.0.3
+go install github.com/aptspyder/SubHunter/v2@v2.0.4
 ````
  Usage
 
